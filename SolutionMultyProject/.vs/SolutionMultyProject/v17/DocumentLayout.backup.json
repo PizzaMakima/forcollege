@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E99E3D2B-D1A1-403C-98CE-73EC1AF4A5DD}|ProjectOne\\ProjectOne.csproj|c:\\users\\cyril\\source\\repos\\solutionmultyproject\\projectone\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99E3D2B-D1A1-403C-98CE-73EC1AF4A5DD}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F10AAE6-2F5C-49A2-80A1-2B583A899C39}|ProjectTwo\\ProjectTwo.csproj|C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\projecttwo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F10AAE6-2F5C-49A2-80A1-2B583A899C39}|ProjectTwo\\ProjectTwo.csproj|solutionrelative:projecttwo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7312E10E-19F4-48DC-BEE0-86CD41437A0B}|ProjectManager\\ProjectManager.csproj|C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\projectmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7312E10E-19F4-48DC-BEE0-86CD41437A0B}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7312E10E-19F4-48DC-BEE0-86CD41437A0B}|ProjectManager\\ProjectManager.csproj|C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\projectmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7312E10E-19F4-48DC-BEE0-86CD41437A0B}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7312E10E-19F4-48DC-BEE0-86CD41437A0B}|ProjectManager\\ProjectManager.csproj|C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\projectmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7312E10E-19F4-48DC-BEE0-86CD41437A0B}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7312E10E-19F4-48DC-BEE0-86CD41437A0B}|ProjectManager\\ProjectManager.csproj|C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\projectmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7312E10E-19F4-48DC-BEE0-86CD41437A0B}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectManager\\Form1.cs",
+              "RelativeToolTip": "ProjectManager\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:57:34.753Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectOne\\Calendar.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\Calendar.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectOne\\Calendar.cs",
+              "RelativeToolTip": "ProjectOne\\Calendar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:42:02.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectManager\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Program.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectManager\\Program.cs",
+              "RelativeToolTip": "ProjectManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:23:15.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectManager\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectManager\\Form1.Designer.cs",
+              "RelativeToolTip": "ProjectManager\\Form1.Designer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvyoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:54:52.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectManager\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ProjectManager\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:52:17.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectTwo\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectTwo\\Form1.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\SolutionMultyProject\\ProjectTwo\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ProjectTwo\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:50:39.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

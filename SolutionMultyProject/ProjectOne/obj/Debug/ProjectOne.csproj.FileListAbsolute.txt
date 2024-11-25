@@ -1,0 +1,11 @@
+C:\Users\cyril\source\repos\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.exe.config
+C:\Users\cyril\source\repos\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.exe
+C:\Users\cyril\source\repos\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.pdb
+C:\Users\cyril\source\repos\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.AssemblyReference.cache
+C:\Users\cyril\source\repos\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\cyril\source\repos\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.exe
+C:\Users\cyril\source\repos\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.pdb
+C:\Users\cyril\source\repos\SolutionMultyProject\ProjectOne\bin\Debug\ProjectTwo.exe
+C:\Users\cyril\source\repos\SolutionMultyProject\ProjectOne\bin\Debug\ProjectTwo.pdb
+C:\Users\cyril\source\repos\SolutionMultyProject\ProjectOne\bin\Debug\ProjectTwo.exe.config
+C:\Users\cyril\source\repos\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.Up2Date
