@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Projects VS\\Variant1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F750941D-F696-480C-A37C-371B67818362}|Variant1Tests\\Variant1Tests.csproj|k:\\projects vs\\variant1\\variant1tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F750941D-F696-480C-A37C-371B67818362}|Variant1Tests\\Variant1Tests.csproj|solutionrelative:variant1tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE424F-D4C0-40E5-B400-E435E381727B}|Variant1\\Variant1.csproj|k:\\projects vs\\variant1\\variant1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE424F-D4C0-40E5-B400-E435E381727B}|Variant1\\Variant1.csproj|solutionrelative:variant1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "K:\\Projects VS\\Variant1\\Variant1Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Variant1Tests\\UnitTest1.cs",
+              "ToolTip": "K:\\Projects VS\\Variant1\\Variant1Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Variant1Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:44:03.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\Projects VS\\Variant1\\Variant1\\Program.cs",
+              "RelativeDocumentMoniker": "Variant1\\Program.cs",
+              "ToolTip": "K:\\Projects VS\\Variant1\\Variant1\\Program.cs",
+              "RelativeToolTip": "Variant1\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:30:55.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Variant1\Variant1\bin\Debug\Variant1.exe.config
+C:\Users\Admin\source\repos\Variant1\Variant1\bin\Debug\Variant1.exe
+C:\Users\Admin\source\repos\Variant1\Variant1\bin\Debug\Variant1.pdb
+C:\Users\Admin\source\repos\Variant1\Variant1\obj\Debug\Variant1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Variant1\Variant1\obj\Debug\Variant1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Variant1\Variant1\obj\Debug\Variant1.exe
+C:\Users\Admin\source\repos\Variant1\Variant1\obj\Debug\Variant1.pdb
+K:\Projects VS\Variant1\Variant1\obj\Debug\Variant1.csproj.AssemblyReference.cache
+K:\Projects VS\Variant1\Variant1\obj\Debug\Variant1.csproj.CoreCompileInputs.cache
+K:\Projects VS\Variant1\Variant1\obj\Debug\Variant1.exe
+K:\Projects VS\Variant1\Variant1\obj\Debug\Variant1.pdb
+K:\Projects VS\Variant1\Variant1\bin\Debug\Variant1.exe.config
+K:\Projects VS\Variant1\Variant1\bin\Debug\Variant1.exe
+K:\Projects VS\Variant1\Variant1\bin\Debug\Variant1.pdb
